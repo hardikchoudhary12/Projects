@@ -1,0 +1,16 @@
+D:\Documents\Visual Studio 2010\Projects\IA_Final_Proj\IA_Final_Proj\bin\Debug\IA_Final_Proj.exe
+D:\Documents\Visual Studio 2010\Projects\IA_Final_Proj\IA_Final_Proj\bin\Debug\IA_Final_Proj.pdb
+D:\Documents\Visual Studio 2010\Projects\IA_Final_Proj\IA_Final_Proj\bin\Debug\Emgu.CV.dll
+D:\Documents\Visual Studio 2010\Projects\IA_Final_Proj\IA_Final_Proj\bin\Debug\Emgu.CV.UI.dll
+D:\Documents\Visual Studio 2010\Projects\IA_Final_Proj\IA_Final_Proj\bin\Debug\Emgu.Util.dll
+D:\Documents\Visual Studio 2010\Projects\IA_Final_Proj\IA_Final_Proj\bin\Debug\ZedGraph.dll
+D:\Documents\Visual Studio 2010\Projects\IA_Final_Proj\IA_Final_Proj\bin\Debug\Emgu.CV.xml
+D:\Documents\Visual Studio 2010\Projects\IA_Final_Proj\IA_Final_Proj\bin\Debug\Emgu.CV.UI.xml
+D:\Documents\Visual Studio 2010\Projects\IA_Final_Proj\IA_Final_Proj\bin\Debug\Emgu.Util.xml
+D:\Documents\Visual Studio 2010\Projects\IA_Final_Proj\IA_Final_Proj\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\IA_Final_Proj\IA_Final_Proj\obj\x86\Debug\IA_Final_Proj.Form1.resources
+D:\Documents\Visual Studio 2010\Projects\IA_Final_Proj\IA_Final_Proj\obj\x86\Debug\IA_Final_Proj.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\IA_Final_Proj\IA_Final_Proj\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\IA_Final_Proj\IA_Final_Proj\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Visual Studio 2010\Projects\IA_Final_Proj\IA_Final_Proj\obj\x86\Debug\IA_Final_Proj.exe
+D:\Documents\Visual Studio 2010\Projects\IA_Final_Proj\IA_Final_Proj\obj\x86\Debug\IA_Final_Proj.pdb
